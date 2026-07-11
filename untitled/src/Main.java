@@ -72,6 +72,10 @@ class Jelly extends Dessert {
     private String shape;
 }
 
+class pudding extends Dessert{
+
+}
+
 void main() {
     Dessert dessert = new Dessert(0, 0, "디저트","디저트 가게");
 
